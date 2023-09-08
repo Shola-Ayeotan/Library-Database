@@ -1,4 +1,4 @@
-# Library-Database 
+# Library Database 
 This comprehensive library database was created in fulfilment of my coursework at the University of Salford.
 
 The database was meticulously designed to streamline the library's operations, enhance member experiences, and ensure data integrity. 
