@@ -1,7 +1,7 @@
 # Library Database 
 This comprehensive library database was created in fulfilment of my coursework at the University of Salford using T-SQL statements in Microsoft SQL Server Management Studio.
 
-The database was meticulously designed to streamline the library's operations, enhance member experiences, and ensure data integrity. 
+The database was meticulously redesigned to streamline the library's operations, enhance member experiences, and ensure data integrity. 
 
 ## Features
 
