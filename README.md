@@ -15,7 +15,4 @@ The database was meticulously designed to streamline the library's operations, e
 
 5. **Triggers**: Automation triggers were also set up to perform actions, such as updating item status upon return, ensuring data accuracy and consistency.
 
-6. **SQL Server Agent Jobs**: Agent jobs were scheduled to handle important daily tasks and streamline library operations.
-
-## Usage Instructions
-This database system is adaptable and can be customized to meet the unique needs of any library. It is a solid foundation for efficient library management and member engagement.
+6. **SQL Server Agent Jobs**: Agent jobs were scheduled to automate important daily tasks and streamline library operations.
