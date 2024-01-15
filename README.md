@@ -1,5 +1,5 @@
 # Library Database 
-This library database was redesigned and developed in fulfilment of my coursework at the University of Salford using Microsoft SQL Server Management Studio.
+This library database was developed in fulfilment of my coursework at the University of Salford using Microsoft SQL Server Management Studio.
 
 The database was meticulously redesigned to streamline the library's operations, enhance member experiences, and ensure data integrity. 
 
